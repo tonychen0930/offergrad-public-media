@@ -1,0 +1,11 @@
+{
+  "assets": [
+    {
+      "file": "offergrad-autopilot-zh-r8-66c7838f229a.mp4",
+      "sha256": "66c7838f229a1a03244608199ee9836d8ff7e9a0fc4075939fda46d646c5ddce",
+      "duration_seconds": 24,
+      "width": 1080,
+      "height": 1920
+    }
+  ]
+}
